@@ -1,1 +1,1 @@
-worker: python No3rdPartLibCode.py
+web: python No3rdPartLibCode.py

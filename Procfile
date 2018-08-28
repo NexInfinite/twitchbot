@@ -1,1 +1,1 @@
-worker: python No3rdPartLibCode.py
+worker: No3rdPartLibCode.py
